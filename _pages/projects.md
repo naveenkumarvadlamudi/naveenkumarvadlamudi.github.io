@@ -3,7 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: Research, industry work, and public GitHub projects.
-nav: true
+nav: false
+published: false
 nav_order: 3
 display_categories: [research, industry]
 horizontal: false
