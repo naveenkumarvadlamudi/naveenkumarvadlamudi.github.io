@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research and the data platforms that sit next to it.
+description: Research, industry work, and public GitHub projects.
 nav: true
 nav_order: 3
 display_categories: [research, industry]
@@ -31,4 +31,14 @@ horizontal: false
   {% endfor %}
 </div>
 {% endif %}
+
+  <a id="code" href=".#code">
+    <h2 class="category">code</h2>
+  </a>
+  <p>Public repositories. Stars, forks, and the main language are read from GitHub.</p>
+  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+    {% for repo in site.data.repositories.github_repos %}
+      {% include repository/repo.liquid repository=repo %}
+    {% endfor %}
+  </div>
 </div>

@@ -1,9 +1,42 @@
 github_users:
-  - VadlamudiNaveen
+  - naveenkumarvadlamudi
+  - vadlamudiNaveen
 
 repo_description_lines_max: 2
 
+# Public repositories, newest push first. Forks, this website, and the profile
+# README repo are left out. Pin cards show stars, forks, and language from GitHub.
 github_repos:
-  - VadlamudiNaveen/Query-Processing-in-Multi-Cloud-Systems
-  - VadlamudiNaveen/Blood-cell-detection-using-supervised-learning
-  - VadlamudiNaveen/CPSC_5110_Optimization_Project
+  - vadlamudiNaveen/databricks_publisher_framework
+  - naveenkumarvadlamudi/Repro
+  - naveenkumarvadlamudi/SLM_Finetuning
+  - naveenkumarvadlamudi/AlgorithmsInPython
+  - naveenkumarvadlamudi/NewSQLMigrationAlgorithms
+  - naveenkumarvadlamudi/decision_transformer
+  - naveenkumarvadlamudi/mine_mapper
+  - naveenkumarvadlamudi/cs-department-research-lab
+  - naveenkumarvadlamudi/research-result-analysis
+  - naveenkumarvadlamudi/sharding-db-configs
+  - naveenkumarvadlamudi/Query-Processing-in-Multi-Cloud-Systems
+  - naveenkumarvadlamudi/complex_containers
+  - naveenkumarvadlamudi/postgis_shardingsphere
+  - naveenkumarvadlamudi/Research_Readings_In_CloudDatabases
+  - naveenkumarvadlamudi/CPSC_5660
+  - naveenkumarvadlamudi/websiteVisitsUsingDocker
+  - naveenkumarvadlamudi/Leet_Code_SQL
+  - naveenkumarvadlamudi/CPSC_5210_Advanced_SWE
+  - naveenkumarvadlamudi/gitDemoYt
+  - naveenkumarvadlamudi/CPSC_5110_Optimization_Project
+  - naveenkumarvadlamudi/studentReportGeneration
+  - naveenkumarvadlamudi/SDS-Streaming-Data-Simulator-
+  - naveenkumarvadlamudi/HashnodeBlogBackup
+  - naveenkumarvadlamudi/DataLemur_SQL_Solutions
+  - naveenkumarvadlamudi/leetcode-rust
+  - naveenkumarvadlamudi/NenEventsApp
+  - naveenkumarvadlamudi/EventsPortalUsingFlask
+  - naveenkumarvadlamudi/Finoramic
+  - naveenkumarvadlamudi/Trees
+  - naveenkumarvadlamudi/SRS-Student-Review-System-
+  - naveenkumarvadlamudi/paytm_integration
+  - naveenkumarvadlamudi/Blood-cell-detection-using-supervised-learning
+  - naveenkumarvadlamudi/StudentsCutoff
