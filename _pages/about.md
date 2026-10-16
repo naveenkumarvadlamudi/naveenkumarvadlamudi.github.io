@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.Sc. Computer Science, University of Lethbridge. Cloud data management.
+subtitle: M.Sc. Computer Science, University of Lethbridge. Cloud data management and algorithms.
 
 profile:
   align: right
