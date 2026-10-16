@@ -29,11 +29,11 @@ cv:
       - institution: Geethanjali College of Engineering and Technology
         location: Hyderabad, India
         area: Computer Science and Engineering
-        studyType: Bachelor of Science
+        studyType: B.Tech.
         start_date: 2016-08-10
         end_date: 2020-09-30
         highlights:
-          - "Bachelor of Science in Computer Science and Engineering. CGPA 3.81/4."
+          - "B.Tech. in Computer Science and Engineering. CGPA 3.81/4."
           - "Finished with no arrears, in the top 15 percent of the CS department."
           - "Organized events for the National Entrepreneurship Network."
           - "Cryptanalysis paper with N. Ravi Shankar, published in the ICCAN 2019 proceedings."
