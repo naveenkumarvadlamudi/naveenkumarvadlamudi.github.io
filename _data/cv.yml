@@ -1,0 +1,179 @@
+cv:
+  name: Naveen Kumar Vadlamudi
+  label: Computer scientist
+  location: Lethbridge, Canada
+  summary: I study batch migration for sharded NewSQL systems and build the data platforms that make that work concrete.
+
+  social_networks:
+    - network: GitHub
+      username: VadlamudiNaveen
+    - network: LinkedIn
+      username: naveen-kumar-vadlamudi-m-sc-7a823b172
+
+  sections:
+    Education:
+      - institution: University of Lethbridge
+        location: Lethbridge, Alberta, Canada
+        url: https://www.ulethbridge.ca/
+        area: Computer Science
+        studyType: M.Sc.
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - "Thesis: Cost-effective batch-based migration strategies for NewSQL-based big data systems. Supervisor: Wendy Osborn."
+          - "CPSC 5990 Query Processing in Multi-Cloud Systems (A+), CPSC 5660 Advanced Database Management Systems (A), CPSC 5210 Advanced Software Engineering (A), CPSC 5110 Computational Optimization (B)."
+          - "Graduate Entrance Scholarship (ULGRA), $3,000 CAD."
+
+      - institution: Geethanjali College of Engineering and Technology
+        location: Hyderabad, India
+        area: Computer Science and Engineering
+        studyType: B.Tech.
+        start_date: 2016
+        end_date: 2020
+        highlights:
+          - "Finished with no arrears, in the top 15 percent of the department."
+          - "Cryptanalysis paper with N. Ravi Shankar, published in the ICCAN 2019 proceedings."
+
+    Experience:
+      - company: University of Lethbridge
+        position: Mitacs Business Strategy Intern
+        location: Lethbridge, Alberta, Canada
+        start_date: 2026-01
+        end_date: present
+        summary: Independent researcher developing a product for Trueffect in partnership with the university.
+
+      - company: Huroca
+        position: Co-founder
+        location: Lethbridge, Alberta, Canada
+        start_date: 2025-08
+        end_date: present
+        highlights:
+          - "The team placed first at the 2026 Launch Point Pitch Competition."
+
+      - company: Sofvie Inc.
+        position: Database, API, and report developer
+        location: Greater Sudbury, Ontario, Canada
+        start_date: 2024-09
+        end_date: present
+        summary: Database promotions, production backups, REST APIs, and in-app reports for a mining safety platform.
+        highlights:
+          - "Student database administrator, February–August 2024: reporting procedures, schema indexes, and client APIs."
+
+      - company: University of Lethbridge
+        position: Graduate Research Assistant
+        location: Lethbridge, Alberta, Canada
+        start_date: 2024-01
+        end_date: 2024-04
+        summary: Mitacs data-management project, alongside the non-profit database article with Sidney J. Shapiro, Vivian Oystrick, and Alison Liu.
+
+      - company: Kastech Software Solutions Group
+        position: Data engineer intern
+        location: Toronto, Ontario, Canada
+        start_date: 2023-03
+        end_date: 2024-02
+        summary: Open-source data products on Snowflake, Airbyte, dbt, Airflow, Docker, and OpenMetadata, including change-data-capture proofs of concept.
+
+      - company: University of Lethbridge
+        position: Technical Specialist, Facilities
+        location: Lethbridge, Alberta, Canada
+        start_date: 2023-05
+        end_date: 2023-08
+        summary: Airflow ingestion into SQL Server, dbt transformations, and a Docker deployment. A two-to-three-day manual workflow finishes in under ten minutes.
+
+      - company: University of Lethbridge
+        position: Graduate Teaching Assistant
+        location: Lethbridge, Alberta, Canada
+        start_date: 2022-09
+        end_date: 2024-04
+        highlights:
+          - "CPSC 3780 Computer Networks, CPSC 3720 Software Engineering, CPSC 3660 Databases, CPSC 3770 Human-Computer Interaction, and CPSC 1770 Probability and Statistics."
+
+      - company: ValueMomentum
+        position: Software engineer
+        location: Hyderabad, India
+        start_date: 2021-06
+        end_date: 2022-08
+        summary: Snowflake subject-area pipelines for a U.S. insurance carrier, from on-premises systems through Amazon S3 into curated tables.
+        highlights:
+          - "Parallel jobs cut one subject area from about six hours to about 1.5–2.5 hours."
+          - "Snowflake credit use fell to about 60 percent of the previous level."
+
+      - company: ValueMomentum
+        position: Graduate engineering trainee
+        location: Hyderabad, India
+        start_date: 2020-12
+        end_date: 2021-06
+        highlights:
+          - "Moved more than a billion records from on-premises systems to Snowflake in QA."
+          - "Historic SCD Type 2 packages in Matillion, and Python checks for counts and duplicates."
+
+    Awards:
+      - title: First place, Launch Point Pitch Competition
+        date: 2026-03
+        awarder: Launch Point
+        summary: With the Huroca team (Emilio Hurtado, Brendon Penner, and Chandra Shekar Suraydevara).
+
+      - title: Graduate Entrance Scholarship (ULGRA)
+        date: 2022-09
+        awarder: University of Lethbridge
+        summary: $3,000 CAD.
+
+      - title: Appreciation for commendable work
+        date: 2022-02
+        awarder: ValueMomentum
+        summary: Snowflake monitoring reports used by the client.
+
+      - title: Star of the Month
+        date: 2021-07
+        awarder: ValueMomentum
+        summary: Category Going Above and Beyond.
+
+    Publications:
+      - title: Batch Processing Algorithms for NewSQL-based Big Data Systems
+        authors:
+          - Naveen Kumar Vadlamudi
+          - Wendy Osborn
+        publisher: IEEE COMPSAC
+        releaseDate: 2025-07-08
+        url: https://doi.org/10.1109/COMPSAC65507.2025.00048
+
+      - title: Cost-effective batch-based migration strategies for NewSQL-based big data systems
+        authors:
+          - Naveen Kumar Vadlamudi
+        publisher: University of Lethbridge
+        releaseDate: 2024
+        url: https://hdl.handle.net/10133/6939
+        summary: M.Sc. thesis. Supervisor Wendy Osborn.
+
+      - title: From Spreadsheets to Scalability
+        authors:
+          - Sidney J. Shapiro
+          - Vivian Oystrick
+          - Alison Liu
+          - Naveen Kumar Vadlamudi
+        publisher: Canadian Journal of Program Evaluation
+        releaseDate: 2024
+        url: https://doi.org/10.3138/cjpe-2023-0050
+
+      - title: Cryptanalysis of a dynamic-chaos Hill cipher for color images
+        authors:
+          - Naveen Kumar Vadlamudi
+          - N. Ravi Shankar
+        publisher: Springer, ICCAN 2019 proceedings
+        releaseDate: 2020
+        url: https://doi.org/10.1007/978-981-15-2414-1_47
+
+    Skills:
+      - name: Data systems
+        level: ""
+        keywords: "Python, SQL, Apache Spark, Apache Airflow, dbt, Airbyte, Docker, Snowflake, PostgreSQL, SQL Server, Oracle, Amazon S3, Matillion, Delta Lake"
+
+    Languages:
+      - name: English
+        summary: Professional working proficiency
+      - name: Hindi
+        summary: Professional working proficiency
+      - name: Telugu
+        summary: Native
+      - name: Tamil
+        summary: Elementary

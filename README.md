@@ -1,18 +1,15 @@
 # Naveen Kumar Vadlamudi
 
-Research profile for GitHub Pages, built with the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme.
+Academic site built with [al-folio](https://github.com/alshedivat/al-folio) v1.2.
 
-The site covers cloud data-management research (NewSQL batch migration, IEEE COMPSAC 2025, and the University of Lethbridge M.Sc. thesis), related publications, and the industry CV behind that work.
+Pages:
 
-- [Home](https://naveenkumarvadlamudi.github.io/)
-- [Research](https://naveenkumarvadlamudi.github.io/research/)
+- [About](https://naveenkumarvadlamudi.github.io/)
 - [Publications](https://naveenkumarvadlamudi.github.io/publications/)
-- [Experience](https://naveenkumarvadlamudi.github.io/experience/)
-- [About](https://naveenkumarvadlamudi.github.io/about/)
+- [Projects](https://naveenkumarvadlamudi.github.io/projects/)
+- [Repositories](https://naveenkumarvadlamudi.github.io/repositories/)
+- [CV](https://naveenkumarvadlamudi.github.io/cv/)
 
-Local preview, from this directory:
+GitHub Pages cannot build this theme with its stock Jekyll. `.github/workflows/deploy.yml` builds the site and publishes the result to the `gh-pages` branch. In the repository settings, set Pages to deploy from the `gh-pages` branch.
 
-```bash
-bundle install
-bundle exec jekyll serve
-```
+Replace `assets/img/prof_pic.jpg` with a photo when you have one. The file there now is a placeholder silhouette.
