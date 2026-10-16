@@ -1,6 +1,7 @@
 cv:
   name: Naveen Kumar Vadlamudi
   label: Computer scientist
+  email: vadlamudinaveen1999@gmail.com
   location: Lethbridge, Canada
   summary: I study batch migration for sharded NewSQL systems and build the data platforms that make that work concrete.
 
@@ -17,21 +18,24 @@ cv:
         url: https://www.ulethbridge.ca/
         area: Computer Science
         studyType: M.Sc.
-        start_date: 2022
-        end_date: 2024
+        start_date: 2022-09-05
+        end_date: 2024-08-30
         highlights:
+          - "CGPA 3.75/4."
           - "Thesis: Cost-effective batch-based migration strategies for NewSQL-based big data systems. Supervisor: Wendy Osborn."
           - "CPSC 5990 Query Processing in Multi-Cloud Systems (A+), CPSC 5660 Advanced Database Management Systems (A), CPSC 5210 Advanced Software Engineering (A), CPSC 5110 Computational Optimization (B)."
-          - "Graduate Entrance Scholarship (ULGRA), $3,000 CAD."
+          - "Graduate Entrance Scholarship (ULGRA), $3,000 CAD, September 2022."
 
       - institution: Geethanjali College of Engineering and Technology
         location: Hyderabad, India
         area: Computer Science and Engineering
-        studyType: B.Tech.
-        start_date: 2016
-        end_date: 2020
+        studyType: Bachelor of Science
+        start_date: 2016-08-10
+        end_date: 2020-09-30
         highlights:
-          - "Finished with no arrears, in the top 15 percent of the department."
+          - "Bachelor of Science in Computer Science and Engineering. CGPA 3.81/4."
+          - "Finished with no arrears, in the top 15 percent of the CS department."
+          - "Organized events for the National Entrepreneurship Network."
           - "Cryptanalysis paper with N. Ravi Shankar, published in the ICCAN 2019 proceedings."
 
     Experience:
@@ -51,61 +55,112 @@ cv:
           - "The team placed first at the 2026 Launch Point Pitch Competition."
 
       - company: Sofvie Inc.
-        position: Database, API, and report developer
-        location: Greater Sudbury, Ontario, Canada
-        start_date: 2024-09
+        position: Database administrator, API and report developer
+        location: Remote
+        start_date: 2024-09-03
         end_date: present
-        summary: Database promotions, production backups, REST APIs, and in-app reports for a mining safety platform.
+        summary: Permanent full-time role, remote, with the office in Lively, Ontario. Reports, API testing, database releases, production issues, stored procedures, schema work, query optimization, and automated data entry.
         highlights:
-          - "Student database administrator, February–August 2024: reporting procedures, schema indexes, and client APIs."
+          - "MariaDB reporting dashboards from SQL to the UI for 3 or more clients. Report loads about 40 percent faster, p95 latency about 35 percent lower, and support tickets about 30 percent fewer."
+          - "REST APIs for 5 or more accounts. Feature flags and phased rollouts for 4 or more features, with about 50 percent fewer post-release defects."
+          - "EC2-to-RDS migration with zero-downtime releases, about 99.9 percent uptime, and about 20 hours a month less operations work."
+          - "Automated data entry removed about 15 hours a week of manual onboarding and shortened time-to-value by about 60 percent."
+
+      - company: Sofvie Inc.
+        position: Student database administrator
+        location: Remote
+        start_date: 2024-02-12
+        end_date: 2024-09-02
+        summary: Reports, API testing, database releases, production issues, stored procedures, schema maintenance, query optimization, and automated data entry.
 
       - company: University of Lethbridge
-        position: Graduate Research Assistant
+        position: Graduate research assistant
         location: Lethbridge, Alberta, Canada
-        start_date: 2024-01
-        end_date: 2024-04
-        summary: Mitacs data-management project, alongside the non-profit database article with Sidney J. Shapiro, Vivian Oystrick, and Alison Liu.
+        start_date: 2024-01-04
+        end_date: 2024-04-25
+        summary: Mitacs internship. Data-management solutions and pipelines for varied sources, alongside the non-profit database article with Sidney J. Shapiro, Vivian Oystrick, and Alison Liu.
+        highlights:
+          - "Data management design for a beef feedlot company: four data sources into one analytics platform, and a blueprint that reduced projected processing costs by about 25 percent."
 
-      - company: Kastech Software Solutions Group
+      - company: Kastech Canada
         position: Data engineer intern
-        location: Toronto, Ontario, Canada
-        start_date: 2023-03
-        end_date: 2024-02
-        summary: Open-source data products on Snowflake, Airbyte, dbt, Airflow, Docker, and OpenMetadata, including change-data-capture proofs of concept.
+        location: Remote
+        start_date: 2023-03-02
+        end_date: 2024-02-01
+        summary: Airbyte, dbt, Docker, PeopleSoft, and Python.
+        highlights:
+          - "Migrated more than 500,000 records with Airbyte and no data loss."
+          - "Docker proofs of concept for data governance."
+          - "dbt models on PeopleSoft data. Ad-hoc reporting requests fell by about 40 percent."
 
       - company: University of Lethbridge
-        position: Technical Specialist, Facilities
+        position: Technical specialist (data engineer)
         location: Lethbridge, Alberta, Canada
-        start_date: 2023-05
-        end_date: 2023-08
-        summary: Airflow ingestion into SQL Server, dbt transformations, and a Docker deployment. A two-to-three-day manual workflow finishes in under ten minutes.
+        start_date: 2023-05-01
+        end_date: 2023-09-05
+        summary: Data architecture and automated SQL Server ingestion for HR data, using Airflow DAGs and dbt.
+        highlights:
+          - "The existing process improved by about 100 times, and the manual path was fully automated."
+          - "About 10 or more hours a week saved, and payroll discrepancies from manual entry were removed."
 
       - company: University of Lethbridge
-        position: Graduate Teaching Assistant
+        position: Graduate teaching assistant
         location: Lethbridge, Alberta, Canada
-        start_date: 2022-09
-        end_date: 2024-04
-        highlights:
-          - "CPSC 3780 Computer Networks, CPSC 3720 Software Engineering, CPSC 3660 Databases, CPSC 3770 Human-Computer Interaction, and CPSC 1770 Probability and Statistics."
+        start_date: 2022-09-05
+        end_date: 2024-08-30
+        summary: Graded assignments and taught tutorials for 3000- and 4000-level computer science courses.
 
       - company: ValueMomentum
-        position: Software engineer
+        position: Cloud data engineer
         location: Hyderabad, India
-        start_date: 2021-06
-        end_date: 2022-08
-        summary: Snowflake subject-area pipelines for a U.S. insurance carrier, from on-premises systems through Amazon S3 into curated tables.
+        start_date: 2020-12-02
+        end_date: 2022-08-29
+        summary: Matillion ETL pipelines and a Snowflake cloud data warehouse for a U.S. insurance client, using AWS S3, EC2, and EMR, with Python and SQL.
         highlights:
-          - "Parallel jobs cut one subject area from about six hours to about 1.5–2.5 hours."
-          - "Snowflake credit use fell to about 60 percent of the previous level."
+          - "Pipelines processed more than 10 million records and were delivered two weeks ahead of schedule."
+          - "Pipeline runtime was optimized by 60 percent, and analytical query runtimes fell by 60 percent."
+          - "Cloud cost work saved about $12,000 a month, about 35 percent."
 
-      - company: ValueMomentum
-        position: Graduate engineering trainee
+      - company: Geethanjali College of Engineering
+        position: Intern
         location: Hyderabad, India
-        start_date: 2020-12
-        end_date: 2021-06
-        highlights:
-          - "Moved more than a billion records from on-premises systems to Snowflake in QA."
-          - "Historic SCD Type 2 packages in Matillion, and Python checks for counts and duplicates."
+        start_date: 2018-02-01
+        end_date: 2018-05
+        summary: PL/SQL procedure to cleanse JNTU Hyderabad student results for the examination branch, covering more than 50,000 records.
+
+    Volunteer:
+      - company: University of Lethbridge
+        position: Invited speaker
+        location: Lethbridge, Alberta, Canada
+        start_date: 2024-10-30
+        end_date: 2024-10-30
+        summary: Guest lecture, "Big Data-Based Cloud Data Management," for final-year and graduate students. Big data and cloud technologies, including data lakes and lakehouses, with live demonstrations and questions.
+
+      - company: Southern Alberta AI Conference
+        position: Organizer and chair
+        location: Lethbridge, Alberta, Canada
+        start_date: 2024-01-03
+        end_date: 2024-06-30
+        summary: Introduced speakers, coordinated sessions, and facilitated questions.
+
+      - company: ISEDAM Research Lab, University of Lethbridge
+        position: Research lab coordinator
+        location: Lethbridge, Alberta, Canada
+        start_date: 2023-09-04
+        end_date: 2024-08-30
+        summary: Shared weekly research insights and collaborated on literature with graduate students and professors. As technical coordinator, organized weekly research presentations and managed the technical infrastructure.
+
+      - company: Union of Lethbridge Graduate Assistants
+        position: Secretary
+        location: Lethbridge, Alberta, Canada
+        start_date: 2023-06-05
+        end_date: 2024-08-30
+        summary: Represented graduate assistants in bargaining, policy, and disputes, and supported workshops and community for graduate assistants.
+
+      - company: GDG Lethbridge
+        position: Organizer
+        location: Lethbridge, Alberta, Canada
+        summary: Organizer for GDG Lethbridge.
 
     Awards:
       - title: First place, Launch Point Pitch Competition
@@ -164,9 +219,33 @@ cv:
         url: https://doi.org/10.1007/978-981-15-2414-1_47
 
     Skills:
-      - name: Data systems
+      - name: Programming
         level: ""
-        keywords: "Python, SQL, Apache Spark, Apache Airflow, dbt, Airbyte, Docker, Snowflake, PostgreSQL, SQL Server, Oracle, Amazon S3, Matillion, Delta Lake"
+        keywords: "Python, Java, PL/SQL, Rust, JavaScript, PHP, HTML, CSS, SCSS, Jinja"
+
+      - name: Querying and databases
+        level: ""
+        keywords: "SQL, DistSQL, KQL, MySQL, PostgreSQL, MariaDB, Oracle, SQL Server, Apache ShardingSphere"
+
+      - name: Data engineering
+        level: ""
+        keywords: "Matillion, Airflow, Prefect, Airbyte, dbt, Kafka, Pandas, data modelling, exploratory data analysis, warehousing, data quality, data governance"
+
+      - name: Big data and cloud
+        level: ""
+        keywords: "Spark, Amazon EMR, Delta Lake, Snowflake, Databricks, AWS S3, EC2, Glue, IAM, CloudWatch, Identity Center, Cost Explorer"
+
+      - name: Applications
+        level: ""
+        keywords: "Flask, FastAPI, React (familiar), Laravel (familiar)"
+
+      - name: Platforms and visualization
+        level: ""
+        keywords: "Linux, Git, pip, conda, LaTeX, Terraform, Docker, MicroK8s, Kubernetes, Apache Superset, Snowsight, Plotly"
+
+      - name: Language models
+        level: ""
+        keywords: "RAG, OpenAI, small language models, open-source LLMs"
 
     Languages:
       - name: English
